@@ -21,7 +21,8 @@ There is still a lot to be done on it.
 * Photoshop CC
 
 ## Demo
-https://shkvoroff.github.io/CompanyWebsite-CarServiceAggregator/main.html
+* Clone this repository (https://github.com/Shkvoroff/CompanyWebsite-CarServiceAggregator.git) on your local machine
+* Run main.html
 
 ## Features
 List of features ready and TODOs for future development
